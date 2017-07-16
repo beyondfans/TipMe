@@ -1,6 +1,6 @@
 # Pre-work - *TipMe*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipMe** is a tip calculator application for iOS.
 
 Submitted by: **Larry Chew**
 
